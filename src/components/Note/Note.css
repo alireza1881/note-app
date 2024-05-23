@@ -1,0 +1,13 @@
+.note-item {
+  padding: 15px;
+}
+
+.note-item p {
+  height: 120px;
+}
+
+.date-info {
+  font-size: small;
+  display: flex;
+  justify-content: space-between;
+}

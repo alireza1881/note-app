@@ -1,0 +1,21 @@
+.container{
+  display: flex!important;
+  flex-direction: column;
+  align-items: center;
+}
+.notes-parent{
+  padding: 20px 0;
+}
+.avatar{
+  background-color: white !important;
+  border:0.5px solid #ccc;
+  position:fixed !important; 
+  bottom: 15px;
+  cursor: pointer;
+}
+.add-btn{
+  left: 15px;
+}
+.remove-all-btn{
+  right: 15px;
+}
